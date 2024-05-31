@@ -3,7 +3,7 @@
 !.gitignore
 !.gitattributes
 !.github/
-
+!.mvn/wrapper/maven-wrapper.properties
 # Ignore generated files
 target
 lib
